@@ -1,0 +1,34 @@
+
+/*Stylesheet for Web Development Practice Tools*/
+/*
+=======================
+Overall Border
+=======================
+*/
+ main {
+   border: 1px solid black;
+   font-family: arial;
+
+}
+/*
+=======================
+Table Style
+=======================
+*/
+table, th, td, caption {
+	border: 1px dotted black;
+	border-collapse: collapse;
+	text-align: left;
+	font-family: arial; 
+	background-color: rgb(0,255,191)
+}
+/*
+
+=======================
+Footer Style
+=======================
+*/
+ footer {
+   border: 1px solid black;
+   font-family: arial;
+}
